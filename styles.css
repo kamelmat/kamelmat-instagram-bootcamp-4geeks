@@ -1,0 +1,60 @@
+header {
+    background: white;  
+}
+h1 {
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    font-size: larger;
+}
+body {
+    background: lightgrey;
+    margin: 0;
+}
+.wrapper,
+.wrapper2,
+.wrapper3,
+.wrapper4 {
+    padding: 10px;
+    background: white;
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+p {
+    margin: 0;
+    width: 100%;
+    text-align: right;
+    font-size: 0.7em;
+    color: lightgrey;
+}
+.firstimage {
+    width: 100%;
+    
+}
+.image-container {
+    margin-top: 10px;
+}
+.title-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.footer-container {
+    padding: 10px;
+    font-size: smaller;
+}
+.section {
+    text-align: left;
+}
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+    font-size: small;
+    white-space: nowrap;
+
+}

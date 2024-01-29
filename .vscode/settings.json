@@ -1,7 +1,12 @@
 {
     "editor.formatOnSave": true,
+    
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
     }
+"editor.renderIndentGuides": true,
+"editor.guides.bracketPairs": true,
+"editor.guides.indentation": true,
 }
+
